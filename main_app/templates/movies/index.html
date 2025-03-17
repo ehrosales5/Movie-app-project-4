@@ -1,0 +1,30 @@
+{% extends 'base.html' %} 
+{% load static %} 
+{% block head %}
+<link rel="stylesheet" href="{% static 'css/movies/movie-index.css' %}"/>
+{% endblock %} 
+{% block content %}
+
+<section class="page-header">
+  <h1>Movie List</h1>
+</section>
+
+<section class="card-container">
+  {% for movie in movies %}
+    <div class="card">
+      <a href="/movies/{{movie.id}}">
+      <div class="card-content">
+        <div class="card-img-container">
+        </div>
+        <h2 class="card-title">{{ movie.title }}</h2>
+        <h3>Director: {{ movie.director }}</h3>
+        <h4>Genre: {{ movie.genre }}</h4>
+        <p><small><strong>Description: </strong>{{ movie.description }}</small></p>
+        <h5>Release Date: {{ movie.year }}</h5>
+      </div>
+      </a>
+    </div>
+  {% endfor %}
+</section>
+
+{% endblock %}
