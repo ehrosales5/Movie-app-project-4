@@ -17,7 +17,7 @@ Movieapp is a place where you can list your favorite movies!
 
 
 ## :computer: Technologies Used
-<img alt="HTML5" src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26"> <img alt="CSS" src="https://img.shields.io/badge/Code-CSS3-blue?style=flat&logo=css3&logoColor=blue"> <img alt="JS" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-informational?style=flat&logo=VisualStudioCode&color=blue">
+<img alt="HTML5" src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26"> <img alt="CSS" src="https://img.shields.io/badge/Code-CSS3-blue?style=flat&logo=css3&logoColor=blue"> <img alt="JS" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-informational?style=flat&logo=VisualStudioCode&color=blue"> <img alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDs7pcOqFTxedK_CMLjqeGssojQyTWSX7A5A&s">
 
 <br>
 
